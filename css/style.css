@@ -37,9 +37,12 @@ body{
   /* border: 1px solid black; */
 }
 
-nav{
+.navbar{
   background-color: #fcc081;
   position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 3;
 }
 
 a{
