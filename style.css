@@ -131,7 +131,7 @@ button{
 
 
 .dark{
-  background-image: url("../img/zelda-bg_pattern_brown.png");
+  background-color: red;
   height: 1200px;
   position: relative;
   top: -60px;
