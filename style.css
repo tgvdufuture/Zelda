@@ -131,13 +131,13 @@ button{
 
 
 .dark{
-  background-color: red;
+  background-image: url("./img/zelda-bg_pattern_brown.png");
   height: 1200px;
   position: relative;
   top: -60px;
 }
 .dark2{
-  background-image: url("../img/zelda-bg_pattern_brown.png");
+  background-image: url("./img/zelda-bg_pattern_brown.png");
   height: 1000px;
 }
 .para_1{
